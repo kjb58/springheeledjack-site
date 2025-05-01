@@ -1,0 +1,1 @@
+function toggleAudio() { var audio = document.getElementById('bg-audio'); audio.muted = !audio.muted; }
